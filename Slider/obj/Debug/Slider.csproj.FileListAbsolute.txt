@@ -1,0 +1,14 @@
+c:\git\Slider\Slider\bin\Debug\Slider.exe.config
+c:\git\Slider\Slider\bin\Debug\Slider.exe
+c:\git\Slider\Slider\bin\Debug\Slider.pdb
+c:\git\Slider\Slider\obj\Debug\Slider.csprojResolveAssemblyReference.cache
+c:\git\Slider\Slider\obj\Debug\MainWindow.g.cs
+c:\git\Slider\Slider\obj\Debug\App.g.cs
+c:\git\Slider\Slider\obj\Debug\Slider_MarkupCompile.cache
+c:\git\Slider\Slider\obj\Debug\Slider_MarkupCompile.lref
+c:\git\Slider\Slider\obj\Debug\MainWindow.baml
+c:\git\Slider\Slider\obj\Debug\Slider.g.resources
+c:\git\Slider\Slider\obj\Debug\Slider.Properties.Resources.resources
+c:\git\Slider\Slider\obj\Debug\Slider.csproj.GenerateResource.Cache
+c:\git\Slider\Slider\obj\Debug\Slider.exe
+c:\git\Slider\Slider\obj\Debug\Slider.pdb
